@@ -1,6 +1,4 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on gameservers for ogfn
-- 🌱 I’m currently learning reverse engineering (ida) and coding C++
-- 📫 How to reach me: pakchunk on Discord
-- 😄 Pronouns: he/him
+## Who are you ❓
+- I'm NotTacos, a sped guy who is learning about Unreal Engine reverse engineering and coding in C++, mostly computer science.
+## How do I contact you?
+- Discord: pakchunk
